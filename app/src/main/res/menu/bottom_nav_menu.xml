@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menu_seed"
+          android:icon="@drawable/ic_baseline_feed"
+          android:title="Seed"/>
+
+    <item android:id="@+id/menu_content"
+        android:icon="@drawable/ic_baseline_content"
+        android:title="Content"/>
+
+    <item android:id="@+id/menu_market"
+        android:icon="@drawable/ic_baseline_market"
+        android:title="Market"/>
+
+    <item android:id="@+id/menu_message"
+        android:icon="@drawable/ic_baseline_message"
+        android:title="Message"/>
+
+    <item android:id="@+id/menu_userOptions"
+        android:icon="@drawable/ic_baseline_user_options"
+        android:title="User Options"/>
+
+<!--    <item android:id="@+id/compose"-->
+<!--        android:icon="@drawable/ic_baseline_compose"-->
+<!--        android:title="Compose"/>-->
+</menu>
